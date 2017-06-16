@@ -3,6 +3,9 @@ mobile
 script
 output
 .idea
+*.pyc
 
+
+.gitignore 
 database_info.json
 majia.json
