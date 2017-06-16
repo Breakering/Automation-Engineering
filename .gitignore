@@ -2,6 +2,7 @@ sql_file
 mobile
 script
 output
+.idea
 
 database_info.json
 majia.json
